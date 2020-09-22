@@ -1,0 +1,7 @@
+{
+  "STORAGE_ACCOUNT_NAME": "stmg001",
+  "STORAGE_ACCOUNT_KEY": "O8jC6HCYThwpAzLgHK0Mcg5+eyL2q5lZ7wFUkqnny5l9qlJeooOGckL4DJwUqisL8ZxSy9yzA6Dmq9yR6BwMVw==",
+  "RAW_DATASET_CONTAINER_NAME": "raw-dataset",
+  "PREPROCESSED_DATASET_CONTAINER_NAME": "preprocessed-dataset",
+  "PREPROCESSED_IMAGES_CONTAINER_NAME": "preprocessed-images"
+}
